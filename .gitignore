@@ -39,3 +39,7 @@ Thumbs.db
 
 # Notebooks
 .ipynb_checkpoints
+
+# AI Assets (Large Files)
+dataset/
+models/
